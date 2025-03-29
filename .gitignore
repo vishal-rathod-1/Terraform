@@ -25,3 +25,5 @@ terraform.rc
 
 # Provider plugins
 .terraform.lock.hcl
+
+*.env
